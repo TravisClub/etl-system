@@ -1,0 +1,9 @@
+pandas
+requests
+user-agents
+maxminddb-geolite2
+pandarallel
+click
+flask
+pytest
+pytest-cov

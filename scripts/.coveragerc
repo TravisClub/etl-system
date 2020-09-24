@@ -1,0 +1,10 @@
+[run]
+branch = True
+omit = .direnv/*, venv/*, tests/*, */__init__.py, */config.py
+
+
+[report]
+fail_under = 80
+
+exclude_lines =
+    if __name__ == .__main__.:
